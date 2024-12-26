@@ -48,9 +48,9 @@ compileOptions {
         sourceCompatibility '1.8'
         targetCompatibility '1.8'
     }
-    if (project.android.hasProperty('namespace')) {
-        namespace 'net.touchcapture.qr.flutterqr'
-    }
+    // if (project.android.hasProperty('namespace')) {
+    //     namespace 'net.touchcapture.qr.flutterqr'
+    // }
 
     
 }
